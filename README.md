@@ -5,5 +5,5 @@
 - AWS EC2
 - AWS VPC
 - AWS SSM
-- 
+- AWS S3
 ----
